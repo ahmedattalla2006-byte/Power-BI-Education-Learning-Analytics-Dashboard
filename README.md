@@ -56,9 +56,9 @@ A welcome page with a **Start Dashboard** button that opens the report.
 
 Besides the main pages, I built **three custom tooltip pages**. A report page tooltip is a small hidden page that appears when you hover over a visual. It gives extra context, such as more KPIs or a mini chart, without crowding the main dashboard.
 
-| Instructor Tooltip | Learning Progress Tooltip | Revenue Tooltip |
+| Tooltip1 | Tooltip2 | Tooltip3 |
 |:---:|:---:|:---:|
-| <img src="tooltip-instructor.png" width="250" alt="Instructor tooltip"> | <img src="tooltip-learning-progress.png" width="250" alt="Learning progress tooltip"> | <img src="tooltip-revenue.png" width="250" alt="Revenue tooltip"> |
+| <img src="1t" width="250" alt="Tooltip1"> | <img src="2t" width="250" alt="Tooltip2"> | <img src="3t" width="250" alt="Tooltip3"> |
 
 - **Instructor tooltip:** shows the top instructor, net revenue (4.41M), average final scores (74.33), and completion rate (0.64).
 - **Learning progress tooltip:** shows the learning funnel: average is-started (0.93), is-completed (0.64), is-certified (0.59), and average duration hours (24.53).
